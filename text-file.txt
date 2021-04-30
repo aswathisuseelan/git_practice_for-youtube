@@ -1,2 +1,3 @@
 i have changed the text file
-i have added some lines
+i have added some lines.
+i have added some more lines
