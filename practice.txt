@@ -1,0 +1,1 @@
+`${HYDRA_AUTH_URL}?audience=&client_id=${CLIENT_ID}&max_age=0&nonce=evkpqbckactwozbsealcbzjt&prompt=&redirect_uri=${REDIRECT_URI}&response_type=code&scope=offline+openid&state=ldahzkcgezfpqbdmgaunmsvp`
